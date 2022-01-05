@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Output xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SumResult>30.30</SumResult>
+  <MulResult>4</MulResult>
+  <SortedInputs>
+    <decimal>1</decimal>
+    <decimal>1.01</decimal>
+    <decimal>2.02</decimal>
+    <decimal>4</decimal>
+  </SortedInputs>
+</Output>

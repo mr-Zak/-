@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_http", "Client_http\Client_http.csproj", "{B39E1396-93FB-4CA8-A870-D2D38037873E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_http", "Server_http\Server_http.csproj", "{15B7DC5B-380F-44AE-A21A-6C20476BAB9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39E1396-93FB-4CA8-A870-D2D38037873E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39E1396-93FB-4CA8-A870-D2D38037873E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39E1396-93FB-4CA8-A870-D2D38037873E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39E1396-93FB-4CA8-A870-D2D38037873E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B7DC5B-380F-44AE-A21A-6C20476BAB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B7DC5B-380F-44AE-A21A-6C20476BAB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B7DC5B-380F-44AE-A21A-6C20476BAB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B7DC5B-380F-44AE-A21A-6C20476BAB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D23977B-3403-4463-9FAF-8A10F8DA04DD}
+	EndGlobalSection
+EndGlobal
